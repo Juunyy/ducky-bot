@@ -1,0 +1,66 @@
+{
+    "token": "TOKEN",
+    "prefix": "-",
+    "posts": [
+        {
+            "message": "875383444971094036",
+            "startMessage": {
+                "title": "Movie Suggestion",
+                "description": "Hello this is Ducky, I heard you want to make a movie suggestion for our movie nights!\n\nIf that's what you want, proceed to answer the questions below",
+                "color": "GREEN",
+                "thumbnail": {
+                	"url": "https://media.discordapp.net/attachments/849579228865495053/875407703135100928/photo_2021-08-11_21-18-07.jpg"
+                }
+            },
+            "endMessage": {
+                "title": "Suggestion Recorded",
+                "description": "Thank you for suggesting this movie for our next movie night!\nWe can't make promises but we'll definitely take it into consideration.\n\n **Have a nice day!**",
+                "color": "GREEN",
+                "thumbnail": {
+                	"url": "https://media.discordapp.net/attachments/849579228865495053/875407703135100928/photo_2021-08-11_21-18-07.jpg"
+                }
+            },
+            "questions": [
+                {"question": "Test1", "type": "text"},
+                {"question": "Test2", "type": "text"},
+                {"question": "Test3", "type": "file"}
+            ],
+            "reaction": "👍",
+            "channel": "849579228865495053",
+            "title": "{{USER}}'s Movie Request",
+            "footer": "Request By {{USER}}",
+            "footerImage": "{{USER AVATAR}}",
+            "thumbnail": "https://media.discordapp.net/attachments/849579228865495053/875407703135100928/photo_2021-08-11_21-18-07.jpg"
+        },
+        {
+            "message": "ENTER ID HERE",
+            "startMessage": {
+                "title": "Music Suggestion",
+                "description": "Hello this is Ducky, I heard you want to make a music suggestion for our movie nights!\n\nIf that's what you want, proceed to answer the questions below",
+                "color": "GREEN",
+                "thumbnail": {
+                	"url": "https://media.discordapp.net/attachments/849579228865495053/875407703135100928/photo_2021-08-11_21-18-07.jpg"
+                }
+            },
+            "endMessage": {
+                "title": "Suggestion Recorded",
+                "description": "Thank you for suggesting this music for our next music night!\nWe can't make promises but we'll definitely take it into consideration.\n\n **Have a nice day!**",
+                "color": "GREEN",
+                "thumbnail": {
+                	"url": "https://media.discordapp.net/attachments/849579228865495053/875407703135100928/photo_2021-08-11_21-18-07.jpg"
+                }
+            },
+            "questions": [
+                {"question": "Test1", "type": "text"},
+                {"question": "Test2", "type": "text"},
+                {"question": "Test3", "type": "text"}
+            ],
+            "reaction": "👍",
+            "channel": "849579228865495053",
+            "title": "{{USER}}'s music Request",
+            "footer": "Request By {{USER}}",
+            "footerImage": "{{USER AVATAR}}",
+            "thumbnail": "https://media.discordapp.net/attachments/849579228865495053/875407703135100928/photo_2021-08-11_21-18-07.jpg"
+        }
+    ]
+}
